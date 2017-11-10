@@ -1,0 +1,102 @@
+#container {
+
+    height: 100%;
+    width: 100%;
+}
+
+
+
+body {
+
+      background: url(http://www.linkcrafter.com/wp-content/uploads/2016/06/black-design-wallpaper-hd-wallpapers-and-pictures-black-design-border-black-design-architecture.jpg) 
+  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.display {
+    width: 1300px;
+    height: 800px;
+    background-color: #a8a5a5;
+    position: absolute;
+    float: left;
+    margin-left: 50px;
+    box-shadow: 0 0 5px 5px #f008d4;
+    border-radius: 25px;
+
+}
+
+
+img {
+    max-height: 150px;
+}
+
+form,
+.showBtn {
+    background-color: #f008d4;
+    color: white;
+    padding-top: 30px;
+    box-shadow: 0 0 5px 5px #a8a5a5;
+    border-radius: 25px;
+
+}
+
+form {
+    width: 350px;
+    height: 180px;
+    position: relative;
+    float: right;
+    font-size: 30px;
+    margin-right: 60px;
+    padding-left: 30px;
+    box-shadow: 0 0 5px 5px #a8a5a5;
+    border-radius: 25px;
+
+}
+
+#feeling-input {
+    color: black;
+    text-align: left;
+    width: 200px
+    height: 200px;
+    font-size: 14pt;
+    text-align: center;
+}
+
+.ratingStyle {
+    color: white;
+    background-color: black;
+}
+
+#add-feeling {
+    background-color: white;
+    color: #474747;
+    border: none;
+    width: 100px;
+    height: 30px;
+
+
+}
+
+
+
+input {
+    margin: 10px;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+#buttons {
+    margin: 10px;
+}
+
+.showBtn {
+    padding: 6px;
+    margin: 5px;
+}
+
